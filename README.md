@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @britishshorthaircats from Germany, excited to be here!
+- 👋 Hi, I’m @britishshorthaircats from Germany!
 - 👀 I’m interested in learning the basics of coding.
 - 🌱 I’m currently enrolled in Harvard's CS50x online course.
-- 💞️ I’m looking to potentially collaborate on the projects I need to submit as part of the course.
 - 📫 How to reach me ...
 
 <!---
